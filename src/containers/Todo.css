@@ -1,15 +1,7 @@
-.App {
-  text-align: center;
-}
-
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
-*{
+.cardheader{
   font-family: 'Poppins', sans-serif;
 
-}
-
-.title{
-  color: #00af91;
 }
 
